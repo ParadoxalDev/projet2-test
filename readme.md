@@ -52,4 +52,4 @@ J'ai parcouru le code en partant depuis la base et ai ajouté les différents te
 
 ### La preuve des tests passés :
 
-![Texte alternatif](/projet2-test/Img_readme/Test_voting.jpg "Test_voting")
+![Test_voting](/projet2-test/Img_readme/Test_voting.jpg "Test_voting")
